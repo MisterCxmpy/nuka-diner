@@ -3,6 +3,7 @@ import styles from './index.module.css'
 import { Link } from 'react-scroll'
 import { Outlet } from 'react-router-dom'
 import { GiHamburgerMenu } from "react-icons/gi"
+import { Hero } from '../../components'
 
 export default function Navbar() {
 
@@ -33,6 +34,7 @@ export default function Navbar() {
           </ul>
         </div>
       </nav>
+      <Hero />
       <Outlet />
     </>
   )

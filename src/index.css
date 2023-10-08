@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Inter:wght@200;600;800&family=Jost:wght@300;400;500;700&family=Lato:wght@400;700&family=Mohave:wght@400;500;600&family=Oswald:wght@400;500;700&family=Shadows+Into+Light&family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/overseer');
+@import url('https://fonts.cdnfonts.com/css/monofonto');
 
 * {
   padding: 0;
@@ -11,10 +13,11 @@
   line-height: 1.5;
   font-weight: 400;
 
-  background-image:radial-gradient(#444, #111);
+  background-image: radial-gradient(#ff2a2a, #000000);
   box-shadow:0 0 5vmin 1vmin #000 inset;
 
-  --text: #0c0;
+  --text: #dbdaf1;
+  --accent: #dbdaf1;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

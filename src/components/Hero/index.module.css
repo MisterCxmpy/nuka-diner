@@ -1,0 +1,30 @@
+.header {
+  max-width: 1200px;
+  padding: 50px 0;
+  color: #fff;
+  clear: both;
+  background: url(/src/assets/Background.png) no-repeat;
+  margin: 0 auto;
+  text-align: center;
+}
+.header > h1 {
+  font-family: "Overseer", sans-serif;
+  font-size: 3.5em;
+  font-style: italic;
+}
+.header > P {
+  font-family: "Monofonto", sans-serif;
+  margin-bottom: 30px;
+}
+
+@media screen and (min-width: 501px) {
+  .header {
+    background-position: center bottom -20px;
+    background-size: 90% auto;
+  }
+}
+@media screen and (min-width: 881px) {
+  .header {
+    padding-bottom: 80px;
+  }
+}/*# sourceMappingURL=index.module.css.map */
