@@ -1,9 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Inter:wght@200;600;800&family=Jost:wght@300;400;500;700&family=Lato:wght@400;700&family=Mohave:wght@400;500;600&family=Oswald:wght@400;500;700&family=Shadows+Into+Light&family=Ubuntu:wght@400;500;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
-  background-color: #242424;
+  background-image:radial-gradient(#444, #111);
+  box-shadow:0 0 5vmin 1vmin #000 inset;
+
+  --text: #0c0;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -14,6 +25,7 @@
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 a:focus {
@@ -27,4 +39,14 @@ button:focus {
 body, #root {
   min-width: 320px;
   min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0px 0px 10px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+section {
+  padding: 100px 0;
 }
