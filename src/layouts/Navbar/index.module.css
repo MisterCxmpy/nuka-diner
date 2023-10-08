@@ -1,7 +1,6 @@
 .navbar {
   position: sticky;
   max-width: 1200px;
-  background: var(--background);
   padding: 10px 40px;
   top: 0;
   height: 84px;
@@ -29,9 +28,7 @@
 }
 .nav-list > .nav-item {
   list-style: none;
-}
-.nav-list > .nav-item:not(:last-of-type) {
-  padding-right: 40px;
+  margin: 0 10px;
 }
 .nav-list > .nav-item > button > svg {
   height: 25.5px !important;
@@ -66,50 +63,19 @@
   justify-content: start;
 }
 
-.nav-list.visible {
-  position: absolute;
-  width: 100%;
-  background: var(--background);
-  left: 0;
-  height: auto;
-  top: 84px;
-}
-.nav-list.visible > li {
-  padding: 10px 10px;
-}
-.nav-list.visible > li > a {
-  font-size: 20px;
-}
-
-.hamburger-icon {
-  display: none;
-  cursor: pointer;
-  font-size: 32px;
-  padding: 0 14.56px;
-}
-
 @media (max-width: 768px) {
+  .row {
+    justify-content: center;
+  }
   .nav-list {
-    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
   }
-  .nav-list.visible {
-    display: block;
+  .nav-list > .nav-item {
+    display: inline-block;
+    margin: 10px 10px;
   }
-  .nav-list.visible::before {
-    bottom: 2px;
-    left: 1%;
-    border-bottom: 2px solid var(--accent);
-    transition: 0.5s all;
-  }
-  .nav-list.visible::before {
-    display: block;
-    content: "";
-    width: 98%;
-    height: 40px;
-    position: absolute;
-    pointer-events: none;
-  }
-  .hamburger-icon {
-    display: flex;
+  .navbar {
+    height: auto;
   }
 }/*# sourceMappingURL=index.module.css.map */

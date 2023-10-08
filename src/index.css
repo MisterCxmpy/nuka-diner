@@ -9,15 +9,18 @@
 }
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Monofonto', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
-  background-image: radial-gradient(#ff2a2a, #000000);
+  background-image: var(--background);
   box-shadow:0 0 5vmin 1vmin #000 inset;
 
+  --background: radial-gradient(#ff2a2a, #000000);
   --text: #dbdaf1;
+  --text-alt: #ff2a2a;
   --accent: #dbdaf1;
+  --accent-alt: #ff2a2a;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -50,6 +53,31 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
 }
 
-section {
-  padding: 100px 0;
+.menu {
+  background: #fff;
+}
+
+@media screen and (min-width: 881px) {
+  .menu, .menu .wide .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+  }
+}
+
+
+@media screen and (min-width: 501px) {
+  .menu {
+    padding: 30px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .menu {
+      padding: 30px 15px;
+  }
+}
+
+.menu+.menu {
+  margin-top: 20px;
 }

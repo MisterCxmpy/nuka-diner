@@ -27,4 +27,10 @@
   .header {
     padding-bottom: 80px;
   }
+}
+@media screen and (max-width: 500px) {
+  .header {
+    background-position: center bottom -7px;
+    background-size: 140% auto;
+  }
 }/*# sourceMappingURL=index.module.css.map */
