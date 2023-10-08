@@ -1,0 +1,26 @@
+.menu-item {
+  display: grid;
+  grid-template-columns: [item] auto [price] auto;
+  grid-column-gap: 50px;
+}
+
+.name {
+  margin-bottom: 5px;
+  grid-column: item;
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+
+.price {
+  grid-column: price;
+  align-self: start;
+  justify-self: end;
+  font-style: normal;
+  font-size: 1em;
+}
+
+.desc {
+  grid-column: item;
+  font-size: 1em;
+  opacity: 0.8;
+}

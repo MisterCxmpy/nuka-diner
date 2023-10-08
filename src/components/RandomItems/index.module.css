@@ -1,14 +1,37 @@
-.intro {
+.intro, .favourites {
   padding: 7% 10%;
   border: 1px dashed var(--accent-alt);
   box-shadow: inset 0 0 0 10px #fff, inset 0 0 0 11px var(--accent-alt);
 }
-.intro > h2 {
+.intro > h2, .favourites > h2 {
   font-family: "Overseer", sans-serif;
   text-align: center;
   font-size: 2.2em;
   color: var(--text-alt);
 }
-.intro > p {
+.intro > p, .favourites > p {
   font-size: 18px;
+}
+
+.breakfast, .pasta-dishes {
+  padding: 5%;
+  border: 1px solid var(--accent-alt);
+}
+
+.title {
+  padding-bottom: 10px;
+  border-bottom: 1px dashed var(--accent-alt);
+  color: var(--accent-alt);
+  text-align: center;
+  font-family: "Overseer", sans-serif;
+  text-transform: uppercase;
+  font-size: 1.8em;
+}
+
+.menu-list {
+  list-style: none;
+}
+
+.menu-list > li:not(:last-child) {
+  margin-bottom: 20px;
 }/*# sourceMappingURL=index.module.css.map */
