@@ -1,12 +1,12 @@
 import React from 'react'
 import styles from './index.module.css'
-import { Appetizers, RandomItems } from '../../components'
+import { BeverageItems, FoodItems } from '../../components'
 
 export default function Menu() {
   return (
     <section className={styles['menu']}>
-      <RandomItems />
-      <Appetizers />
+      <FoodItems />
+      <BeverageItems />
     </section>
   )
 }

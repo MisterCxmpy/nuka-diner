@@ -190,6 +190,146 @@
         "price": 35,
         "desc": "Tender ribs glazed with a sweet and spicy Nuka-Cola sauce, served with crispy mutfruit slaw. A flavorful wasteland delicacy."
       }
+    ],
+    "appetizers": [
+      {"name": "Mirelurk Cakes", "price": 15, "desc": "Crispy cakes made from shredded mirelurk meat, blended with wasteland spices. Served with a zesty swamp plant dip."},
+      {"name": "Bloatfly Poppers", "price": 12, "desc": "Tempura-battered bloatfly larvae served with a spicy radscorpion venom dipping sauce."},
+      {"name": "Yao Guai Sliders", "price": 18, "desc": "Miniature grilled Yao Guai burgers topped with pickled glowing fungus and caramelized wild tarberry sauce."},
+      {"name": "Nuka-Fried Mothchips", "price": 10, "desc": "Thinly sliced, fried irradiated moth wings served with a Nuka-Cola infused ketchup for dipping."},
+      {"name": "Cave Fungus Croquettes", "price": 14, "desc": "Deep-fried cave fungus and glowing mushroom croquettes served with a tangy ghoulberry sauce."},
+      {"name": "Deathclaw Claw Tenders", "price": 20, "desc": "Tender strips of Deathclaw claw meat, breaded and fried to perfection. Served with a spicy Deathclaw chili mayo."}
+    ],
+    "mainCourses": [
+      {"name": "Radstag Roast", "price": 35, "desc": "Slow-roasted radstag served with a rich wasteland herb gravy, accompanied by crispy radroot fritters."},
+      {"name": "Brahmin Bourguignon", "price": 30, "desc": "Braised brahmin chunks cooked in a savory wine sauce with wild mushrooms and diced radtato. Served over mashed glowing fungus."},
+      {"name": "Nuka-Cola Glazed Deathclaw Steak", "price": 45, "desc": "Thick, juicy Deathclaw steak glazed with a caramelized Nuka-Cola reduction. Served with grilled wild mute fruit."},
+      {"name": "Molerat Surprise", "price": 28, "desc": "Molerat meatballs stuffed with radroach eggs, baked and served with a spicy bloodbug tomato sauce over spaghetti made from wasteland grains."},
+      {"name": "Radscorpion Scampi", "price": 38, "desc": "Pan-seared radscorpion tails sautéed with garlic, wasteland herbs, and brahmin butter. Served over a bed of glowing fungus risotto."},
+      {"name": "Mutant Tofu Stir-Fry", "price": 25, "desc": "Wok-fried mutant tofu cubes with crispy wild tarberry, sliced swamp plant, and radtato. Served over steamed wasteland rice."},
+      {"name": "Nukalurk Linguine", "price": 32, "desc": "Linguine pasta tossed with Nukalurk meat, roasted radroot, and pickled glowing fungus in a creamy white sauce."},
+      {"name": "Cazador Crepes", "price": 28, "desc": "Thin crepes filled with cazador honey and wild punga fruit compote. Served with a dusting of powdered sugar and a side of brahmin milk ice cream."},
+      {"name": "Mirelurk Étouffée", "price": 40, "desc": "Mirelurk claws simmered in a spicy wasteland tomato sauce, served over a mound of fluffy wasteland grains."}
+    ],
+    "beverages": [
+      {"name": "Rad-X Cooler", "price": 8, "desc": "A refreshing blend of Rad-X, tonic water, and mutant lime juice. Served over ice with a twist of radroach peel."},
+      {"name": "Glowing Gulp", "price": 10, "desc": "A luminous blue cocktail made with glowing fungus-infused vodka, Nuka-Cola, and a splash of silt bean liqueur."},
+      {"name": "Nuka-Cola Sunrise", "price": 6, "desc": "Nuka-Cola mixed with irradiated orange juice and a touch of grenadine. Garnished with a mutant orange slice."},
+      {"name": "Rust Devil Rum Punch", "price": 12, "desc": "A potent rum punch made with Rust Devil rum, wild punga fruit juice, and a hint of glowing fungus syrup. Served in a coconut shell with a flaming ghoulberry garnish."},
+      {"name": "Bloodbug Breeze", "price": 7, "desc": "A tropical concoction featuring bloodbug nectar, coconut milk, and wild tarberry liqueur. Served in a chilled wasteland glass."},
+      {"name": "Sarsaparilla Spark", "price": 5, "desc": "A fizzy blend of Sunset Sarsaparilla, sparkling water, and mutant lemon zest. Served over crushed ice with a twist of cave fungus."}
+    ],
+    "brunch": [
+      {"name": "Wasteland Veggie Frittata", "price": 18, "desc": "A hearty frittata made with mutant vegetables, wild tarberry, and brahmin cheese. Baked to perfection and served with a side of crispy radroot hash."},
+      {"name": "Sunrise Smoothie Bowl", "price": 20, "desc": "A vibrant smoothie bowl blended with irradiated mango, wild tarberry, and cave fungus. Topped with sliced mutant oranges, crunchy wasteland granola, and a drizzle of honey mesquite syrup."},
+      {"name": "Radtato Benedict", "price": 22, "desc": "Poached radtato patties served on toasted mutant wheat English muffins, topped with perfectly poached wasteland eggs and smothered in rich hollandaise sauce. Garnished with minced ghoulberry chives."}
+    ],
+    "specialtyCocktails": [
+      {"name": "Gamma Gulp", "price": 18, "desc": "A vibrant green cocktail made with gamma radiation-infused vodka, wasteland herbs, and a splash of Nuka-Cola. Served in a glowing glass."},
+      {"name": "Plasma Punch", "price": 15, "desc": "A zesty punch made with plasma-infused fruit juice, sparking wasteland water, and a hint of sugar. Served with a floating plasma fruit slice."},
+      {"name": "Radstag Rush", "price": 20, "desc": "A powerful concoction featuring Radstag blood-infused whiskey, wild tarberry liqueur, and a splash of bitter radroach bitters. Served neat in a radstag antler glass."},
+      {"name": "Quantum Quencher", "price": 14, "desc": "A mesmerizing blue cocktail made with Nuka-Cola Quantum, quantum fruit syrup, and a splash of glowing fungus liqueur. Served with a twist of mutant lemon peel."}
+    ],
+    "kidsMenu": [
+      {"name": "Mini Deathclaw Nuggets", "price": 8, "desc": "Bite-sized nuggets made from mutant chicken meat, breaded and baked. Served with radtato fries and a side of ghoulberry ketchup."},
+      {"name": "Nuka-Cola Junior", "price": 5, "desc": "A non-alcoholic version of Nuka-Cola served with a slice of mutant orange and a radroach straw."},
+      {"name": "Radroach Pizza", "price": 7, "desc": "Mini pizza topped with radroach sausage, wild tarberry, and melted wasteland cheese. Served with a side of glowing fungus marinara sauce for dipping."},
+      {"name": "Mole Rat Mac 'n' Cheese", "price": 6, "desc": "Creamy macaroni and cheese made with molerat milk, served with a sprinkling of crispy radroot breadcrumbs."}
+    ],
+    "vegetarianDishes": [
+      {"name": "Mushroom Cloud Salad", "price": 18, "desc": "A refreshing salad made with a variety of wild wasteland mushrooms, mutant greens, and crispy radroot croutons. Served with a tangy swamp plant vinaigrette."},
+      {"name": "Glowing Gourd Soup", "price": 15, "desc": "A hearty soup made from roasted glowing gourds, wasteland herbs, and simmered wild tarberry. Garnished with toasted cave fungus strips."},
+      {"name": "Nuka-Beet Burger", "price": 20, "desc": "A flavorful beet and radtato burger patty grilled to perfection, served on a mutant wheat bun with pickled glowing fungus, wild tarberry sauce, and crisp wasteland lettuce."},
+      {"name": "Radroot Stir-Fry", "price": 22, "desc": "Wok-fried radroot strips with sliced swamp plant, mutant mushrooms, and crispy wild tarberry. Served over steamed wasteland rice with a soy-molasses glaze."}
+    ]
+  },
+  "menuSection2": {
+    "beverageDrinks": [
+      {"name": "Nuka-Cola Classic", "price": 5, "desc": "The iconic Nuka-Cola, a refreshing cola beverage enjoyed by wastelanders everywhere."},
+      {"name": "Sunset Sarsaparilla", "price": 6, "desc": "A classic root beer-like soda with a distinct flavor, known for its healing properties."},
+      {"name": "Quantum Fizz", "price": 8, "desc": "A glowing blue soda made from Nuka-Cola Quantum, refreshing and slightly radioactive."},
+      {"name": "Radroach Root Beer", "price": 4, "desc": "A non-alcoholic root beer variant, named playfully after the wasteland's infamous radroaches."},
+      {"name": "Irradiated Lemonade", "price": 7, "desc": "Freshly squeezed lemonade with a twist – irradiated mutant lemons make it a unique and zesty experience."},
+      {"name": "Glowing Gourd Brew", "price": 9, "desc": "A warming tea made from glowing gourd leaves, known for its relaxing effects and subtle glow."},
+      {"name": "Rust Devil Rum", "price": 10, "desc": "A strong rum brewed by the Rust Devils faction, often enjoyed neat or used in wasteland cocktails."},
+      {"name": "Mutant Mojito", "price": 8, "desc": "A refreshing cocktail made with mutant mint, irradiated lime, and a splash of seltzer water."},
+      {"name": "Wasteland Whiskey", "price": 12, "desc": "A robust whiskey crafted from wasteland grains, perfect for sipping around the campfire."},
+      {"name": "Brahmin Brew", "price": 6, "desc": "A hearty and slightly bitter beer made from brahmin barley, a favorite among wasteland taverns."},
+      {"name": "Mirelurk Mocha", "price": 7, "desc": "A rich coffee beverage made with mirelurk shell-ground coffee beans, served with steamed wasteland milk."},
+      {"name": "Radstag Red Wine", "price": 14, "desc": "A fine red wine made from radstag grapes, aged in oak barrels for a smooth and complex flavor."},
+      {"name": "Silt Bean Espresso", "price": 9, "desc": "An intense espresso shot made from rare silt bean coffee beans, known for its strong aroma and kick."},
+      {"name": "Swamp Plant Chai", "price": 7, "desc": "A fragrant chai tea infused with swamp plant leaves, making for a unique and earthy tea experience."},
+      {"name": "Ghoulberry Smoothie", "price": 8, "desc": "A fruity smoothie made with ghoulberry, mutant orange, and wild tarberry, blended with wasteland ice."},
+      {"name": "Mutfruit Cider", "price": 6, "desc": "A sweet and crisp cider made from mutant apples (mutfruit), a popular beverage in the wasteland."},
+      {"name": "Bloatfly Bite", "price": 5, "desc": "A sweet and tangy cocktail made with bloatfly nectar, Nuka-Cola, and a twist of mutant lime."},
+      {"name": "Nuka-rita", "price": 7, "desc": "A wasteland twist on the classic margarita, made with Nuka-Cola, mutant lime juice, and brahmin salt rim."},
+      {"name": "Sarsaparilla Spritzer", "price": 6, "desc": "A fizzy and herbal spritzer made from sarsaparilla root, sparkling wasteland water, and a squeeze of irradiated lemon."},
+      {"name": "Glowing Gulp Cooler", "price": 10, "desc": "A vibrant and refreshing cooler made with Glowing Gulp, sparkling water, and a splash of wild tarberry syrup."},
+      {"name": "Plasma Punch", "price": 11, "desc": "An electrifying punch made with plasma-infused fruit juice, sparkling wasteland water, and a hint of silt bean sweetness."},
+      {"name": "Radroach Rum", "price": 12, "desc": "A unique rum distilled with radroach shell fragments, providing a subtle smoky flavor."},
+      {"name": "Mole Rat Mocha", "price": 8, "desc": "A rich and velvety mocha made with molerat milk, wasteland cocoa, and a dash of irradiated cinnamon."},
+      {"name": "Ghoul's Grind", "price": 9, "desc": "A strong black coffee made from ghoulberry-infused beans, perfect for those who need a kick in the wasteland mornings."},
+      {"name": "Swamp Sip", "price": 6, "desc": "A herbal tea blend featuring swamp plant leaves and glowing fungus petals, calming and rejuvenating."},
+      {"name": "Nuka-Nectar", "price": 11, "desc": "A sweet and effervescent nectar made from rare wasteland flowers, served chilled and sparkling."},
+      {"name": "Mutant Mimosa", "price": 10, "desc": "A brunch classic with a wasteland twist: mutant orange juice mixed with sparkling wasteland water and a splash of Rad-X liqueur."},
+      {"name": "RadAway Refresher", "price": 12, "desc": "A revitalizing cocktail made with RadAway, wasteland lemon, and mutant mint. Served over ice and garnished with a radstag antler stir stick."},
+      {"name": "Ant Nectar Elixir", "price": 15, "desc": "A rare and luxurious elixir made from ant nectar, blended with honey mesquite and served in a glowing glass."},
+      {"name": "Nuka-Cherry Cola", "price": 7, "desc": "A cherry-flavored cola variation of Nuka-Cola, with a sweet and tangy taste that's hard to resist."},
+      {"name": "Nukalurk Lemonade", "price": 8, "desc": "A zesty lemonade made with Nukalurk meat extract, providing a unique umami flavor to the classic drink."},
+      {"name": "Glowing Gourd Latte", "price": 9, "desc": "A comforting latte made with glowing gourd spice-infused coffee, steamed wasteland milk, and a sprinkle of cinnamon."},
+      {"name": "Deathclaw Claw Espresso", "price": 11, "desc": "An intense espresso shot made with Deathclaw claw ground coffee beans, providing a robust and bold flavor."},
+      {"name": "Radstag Roast Coffee", "price": 10, "desc": "A medium-roast coffee made with radstag-friendly beans, offering a balanced and smooth cup of joe."},
+      {"name": "Nuka-Fruit Punch", "price": 6, "desc": "A fruity punch made with Nuka-Fruit juice, sparkling wasteland water, and a handful of crushed ice."},
+      {"name": "Ghoul's Delight", "price": 14, "desc": "A decadent dessert cocktail made with ghoulberry liqueur, mutant chocolate, and a splash of wasteland cream."},
+      {"name": "Gourd Grog", "price": 13, "desc": "A tropical grog made with glowing gourd juice, coconut milk, and a hint of rum. Served in a hollowed-out glowing gourd."},
+      {"name": "Radstag Red", "price": 17, "desc": "A sophisticated red wine made from radstag grapes, aged to perfection, offering a smooth and velvety finish."},
+      {"name": "Scorchbeast Sunrise", "price": 16, "desc": "A fiery sunrise cocktail made with Scorchbeast wing-infused vodka, orange juice, and a splash of grenadine."},
+      {"name": "Wasteland Iced Tea", "price": 5, "desc": "A classic iced tea made from wild wasteland herbs, sweetened with honey mesquite syrup and garnished with a mutant lemon slice."},
+      {"name": "Glowing Fungus Fizz", "price": 7, "desc": "A fizzy and effervescent soda made from glowing fungus extract, offering a unique and refreshing taste."},
+      {"name": "Mirelurk Mule", "price": 12, "desc": "A wasteland twist on the classic Moscow Mule, made with mirelurk shell vodka, mutant lime juice, and ginger beer. Served in a copper mug."}
+    ],
+    "wines": [
+      {"name": "Radstag Reserve", "price": 25, "desc": "A luxurious red wine made from the finest radstag grapes, aged in oak barrels for a smooth and complex flavor."},
+      {"name": "Glowing Grape Goblet", "price": 22, "desc": "A glowing blue wine made from rare glowing grapevines, providing a unique and visually stunning drinking experience."},
+      {"name": "Mutfruit Merlot", "price": 28, "desc": "A bold and robust merlot made from mutant apples (mutfruit), offering deep fruity flavors and a hint of wasteland spice."},
+      {"name": "Nuka-Noir", "price": 30, "desc": "A dark and mysterious wine made from Nuka-Cola grapes, with a rich, velvety texture and subtle cola undertones."},
+      {"name": "Deathclaw Claret", "price": 35, "desc": "A rare and exquisite claret made from Deathclaw grapevines, known for its intense flavor profile and smooth finish."},
+      {"name": "Wasteland White", "price": 20, "desc": "A crisp and refreshing white wine made from wild wasteland grapes, offering floral notes and a hint of citrus."},
+      {"name": "Brahmin Blush", "price": 18, "desc": "A delicate blush wine made from brahmin barley, featuring light berry flavors and a touch of sweetness."},
+      {"name": "Mirelurk Moscato", "price": 23, "desc": "A sweet moscato wine made from mirelurk grapes, offering floral aromas and a burst of tropical fruit flavors."},
+      {"name": "Nukaberry Noir", "price": 27, "desc": "A deep purple wine made from Nukaberry grapes, known for its bold taste and notes of ripe berries and spice."},
+      {"name": "Radaway Rosé", "price": 24, "desc": "A vibrant rosé wine made from wasteland grapes, offering a perfect balance of fruitiness and acidity."}
+    ],
+    "softDrinks": [
+      {"name": "Nuka-Cola Classic", "price": 5, "desc": "The iconic Nuka-Cola, a refreshing cola beverage enjoyed by wastelanders everywhere."},
+      {"name": "Sunset Sarsaparilla", "price": 6, "desc": "A classic root beer-like soda with a distinct flavor, known for its healing properties."},
+      {"name": "Quantum Fizz", "price": 8, "desc": "A glowing blue soda made from Nuka-Cola Quantum, refreshing and slightly radioactive."},
+      {"name": "Radroach Root Beer", "price": 4, "desc": "A non-alcoholic root beer variant, named playfully after the wasteland's infamous radroaches."},
+      {"name": "Irradiated Lemonade", "price": 7, "desc": "Freshly squeezed lemonade with a twist – irradiated mutant lemons make it a unique and zesty experience."},
+      {"name": "Glowing Gourd Brew", "price": 9, "desc": "A warming tea made from glowing gourd leaves, known for its relaxing effects and subtle glow."},
+      {"name": "Rust Devil Rum", "price": 10, "desc": "A strong rum brewed by the Rust Devils faction, often enjoyed neat or used in wasteland cocktails."},
+      {"name": "Mutant Mojito", "price": 8, "desc": "A refreshing cocktail made with mutant mint, irradiated lime, and a splash of seltzer water."},
+      {"name": "Wasteland Whiskey", "price": 12, "desc": "A robust whiskey crafted from wasteland grains, perfect for sipping around the campfire."},
+      {"name": "Brahmin Brew", "price": 6, "desc": "A hearty and slightly bitter beer made from brahmin barley, a favorite among wasteland taverns."}
+    ],
+    "beers": [
+      {"name": "Brahmin Brew", "price": 6, "desc": "A hearty and slightly bitter beer made from brahmin barley, a favorite among wasteland taverns."},
+      {"name": "Molerat Lager", "price": 7, "desc": "A crisp and light lager brewed from molerat barley, perfect for hot wasteland days."},
+      {"name": "Radstag Red Ale", "price": 8, "desc": "A rich and malty red ale made from radstag grains, offering caramel notes and a smooth finish."},
+      {"name": "Deathclaw Dark Stout", "price": 9, "desc": "A robust and flavorful stout made from roasted Deathclaw barley, featuring hints of coffee and chocolate."},
+      {"name": "Glowing Gourd Ale", "price": 10, "desc": "An amber ale brewed with glowing gourd extract, offering a unique earthy flavor and a slight glow in the dark."}
+    ],
+    "energyDrinks": [
+      {"name": "Rad-X Rush", "price": 6, "desc": "An energy drink infused with Rad-X, providing a boost of energy and temporary radiation resistance."},
+      {"name": "Stimpack Surge", "price": 7, "desc": "An invigorating energy drink with a blend of stimpack extracts, offering a quick energy boost and accelerated healing effects."},
+      {"name": "Quantum Charge", "price": 8, "desc": "An electrifying energy drink made with Nuka-Cola Quantum, providing intense energy and a glowing blue aura."},
+      {"name": "Fusion Core Fuel", "price": 9, "desc": "A high-octane energy drink inspired by fusion cores, offering long-lasting energy and enhanced endurance."},
+      {"name": "Plasma Power", "price": 10, "desc": "A futuristic energy drink infused with plasma extract, providing rapid energy recovery and increased focus."}
+    ],
+    "luxuryDrinks": [
+      {"name": "Nuka-Premium", "price": 50, "desc": "The pinnacle of Nuka-Cola craftsmanship, made from rare ingredients and aged to perfection. Each bottle is a collector's item."},
+      {"name": "Platinum Radstag Reserve", "price": 75, "desc": "A limited edition red wine made from the most exceptional radstag grapes, aged in platinum barrels for an exquisite taste and smooth finish."},
+      {"name": "Quantum Elixir", "price": 60, "desc": "A precious elixir made from pure Nuka-Cola Quantum essence, carefully distilled and bottled in radiant glass vials. A glowing masterpiece."},
+      {"name": "Ghoulberry Gold", "price": 65, "desc": "A luxurious liqueur made from rare ghoulberry extracts, distilled with wasteland herbs and aged in golden casks for a rich and velvety flavor."}
     ]
   }
 }
