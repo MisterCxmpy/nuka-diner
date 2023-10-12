@@ -1,0 +1,16 @@
+.heading {
+  padding-bottom: 10px;
+  border-bottom: 1px dashed var(--accent-alt);
+  color: var(--accent-alt);
+  text-align: center;
+  font-family: "Overseer", sans-serif;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  width: 100%;
+}
+
+.special {
+  padding: 7% 10%;
+  border: 1px dashed var(--accent-alt);
+  box-shadow: inset 0 0 0 10px #fff, inset 0 0 0 11px var(--accent-alt);
+}/*# sourceMappingURL=index.module.css.map */

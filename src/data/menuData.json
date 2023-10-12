@@ -331,5 +331,107 @@
       {"name": "Quantum Elixir", "price": 60, "desc": "A precious elixir made from pure Nuka-Cola Quantum essence, carefully distilled and bottled in radiant glass vials. A glowing masterpiece."},
       {"name": "Ghoulberry Gold", "price": 65, "desc": "A luxurious liqueur made from rare ghoulberry extracts, distilled with wasteland herbs and aged in golden casks for a rich and velvety flavor."}
     ]
+  },
+  "menuSection3": {
+    "desserts": [
+      {"name": "Nuka-Nut Sundae", "price": 12, "desc": "Creamy brahmin milk ice cream topped with candied wasteland nuts, caramelized wild tarberry sauce, and a cherry from the glowing tree."},
+      {"name": "Ghoul Gravy Cake", "price": 10, "desc": "Moist chocolate cake drizzled with warm ghoulberry sauce and topped with a dollop of whipped brahmin cream."},
+      {"name": "Deathclaw Claw Parfait", "price": 14, "desc": "Layers of crushed radroach cookies, Deathclaw claw custard, and whipped glowing fungus cream. Garnished with a sliver of preserved honey mesquite."},
+      {"name": "Irradiated Cheesecake", "price": 11, "desc": "Creamy cheesecake made with irradiated cream cheese and a crust of crushed Rad-Away biscuits. Served with a tart Nuka-Cola reduction."},
+      {"name": "Sticky Toffee Rad Pudding", "price": 9, "desc": "Warm sticky toffee pudding made with radtato flour, drizzled with a gooey molasses and brahmin butter sauce. Served with a scoop of radroach ripple ice cream."},
+      {"name": "Nuka-Berry Pie", "price": 13, "desc": "A flaky pie crust filled with a mix of Nuka-Berry fruits, sweetened with honey mesquite syrup and baked to golden perfection. Served warm with a scoop of brahmin milk ice cream."},
+      {"name": "Mutant Mint Brownie", "price": 15, "desc": "Rich chocolate brownie layered with a velvety mutant mint ganache and topped with a sprinkling of crushed wasteland nuts. Served with a side of ghoulberry compote."}
+    ],
+    
+    "cakes": [
+      {"name": "Nuka-Cola Velvet Cake", "price": 28, "desc": "A decadent red velvet cake infused with Nuka-Cola essence, layered with cream cheese frosting and garnished with Nuka-Cola syrup."},
+      {"name": "Radstag Red Velvet Cake", "price": 30, "desc": "A luxurious red velvet cake made with radstag eggs, layered with vanilla cream and covered in a smooth radstag red velvet frosting."},
+      {"name": "Deathclaw Chocolate Cake", "price": 25, "desc": "A rich chocolate cake made with Deathclaw egg yolks, filled with dark chocolate ganache and topped with Deathclaw egg white meringue."},
+      {"name": "Glowing Gourd Spice Cake", "price": 32, "desc": "A spiced cake made with glowing gourd puree, layered with cream cheese frosting and sprinkled with toasted glowing gourd seeds."},
+      {"name": "Mirelurk Lemon Cake", "price": 26, "desc": "A zesty lemon cake made with mirelurk lemon zest, filled with lemon curd and frosted with a tangy mirelurk lemon buttercream."}
+    ],
+    
+    "candyBars": [
+      {"name": "Radroach Crunch", "price": 5, "desc": "Crunchy toffee and roasted radroach bits coated in dark chocolate."},
+      {"name": "Brahmin Brittle", "price": 6, "desc": "Sweet and salty brittle made with caramelized brahmin milk, roasted wasteland nuts, and a touch of sea salt."},
+      {"name": "Mirelurk Marbles", "price": 7, "desc": "Glossy chocolate marbles filled with mirelurk egg white truffle."},
+      {"name": "Nuka-Nougat Delight", "price": 8, "desc": "Soft and chewy nougat studded with candied Nuka-Cola Quantum pieces."},
+      {"name": "Quantum Raspberry Bark", "price": 9, "desc": "Dark chocolate bark swirled with tangy Quantum raspberry coulis and sprinkled with crushed wasteland nuts."},
+      {"name": "Ghoulberry Cluster", "price": 10, "desc": "Clusters of caramel, roasted ghoulberry, and crunchy rice crisps enrobed in white chocolate."},
+      {"name": "Silt Bean Truffle", "price": 7, "desc": "Silky smooth truffle made with rich silt bean ganache, coated in a layer of dark chocolate."},
+      {"name": "Deathclaw Delight", "price": 8, "desc": "Creamy caramel and roasted almond nougat covered in milk chocolate, shaped like Deathclaw claws."}
+    ],
+    
+    "iceCreamStyles": [
+      {"name": "Wasteland Swirl", "price": 12, "desc": "Creamy vanilla ice cream swirled with ribbons of caramel and fudge."},
+      {"name": "Nuka-Nut Crunch", "price": 14, "desc": "Vanilla ice cream packed with crunchy wasteland nuts and Nuka-Cola caramel swirls."},
+      {"name": "Quantum Ripple", "price": 13, "desc": "Blue raspberry ripple ice cream with pieces of Quantum raspberry and white chocolate chunks."},
+      {"name": "Glowing Gourd Delight", "price": 15, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Mirelurk Mint Chip", "price": 14, "desc": "Peppermint ice cream with dark chocolate chips made from mirelurk shell-infused chocolate."},
+      {"name": "Radstag Tracks", "price": 16, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."}
+    ],
+    
+    "iceCreamFlavours": [
+      {"name": "Nuka-Berry Blast", "price": 8, "desc": "Mixed berry ice cream with a swirl of Nuka-Cola syrup."},
+      {"name": "Radroach Rocky Road", "price": 8, "desc": "Chocolate ice cream with marshmallows, roasted almonds, and chunks of radroach brittle."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Deathclaw Delight", "price": 8, "desc": "Peanut butter ice cream with caramel swirls and chunks of chocolate-covered Deathclaw eggs."},
+      {"name": "Wasteland Whirlwind", "price": 8, "desc": "Caramel ice cream with roasted pecans, pretzel pieces, and a fudge swirl."},
+      {"name": "Mutant Mango Madness", "price": 8, "desc": "Mango ice cream with a kick of chili pepper spice and chunks of candied mutant mango."},
+      {"name": "Ghoulberry Gala", "price": 8, "desc": "Raspberry ice cream with swirls of ghoulberry sauce and white chocolate chunks."},
+      {"name": "Silt Bean Sensation", "price": 8, "desc": "Coffee ice cream with silt bean fudge chunks and a hint of wasteland whiskey."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Radstag Tracks", "price": 8, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."},
+      {"name": "Molerat Maple Mash", "price": 8, "desc": "Maple syrup ice cream with chunks of molerat-shaped maple candy."},
+      {"name": "Swamp Plant Sorbet", "price": 8, "desc": "Refreshing sorbet made with swamp plant leaves, wild tarberry, and a splash of wasteland citrus."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Radstag Tracks", "price": 8, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."},
+      {"name": "Molerat Maple Mash", "price": 8, "desc": "Maple syrup ice cream with chunks of molerat-shaped maple candy."},
+      {"name": "Swamp Plant Sorbet", "price": 8, "desc": "Refreshing sorbet made with swamp plant leaves, wild tarberry, and a splash of wasteland citrus."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Radstag Tracks", "price": 8, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."},
+      {"name": "Molerat Maple Mash", "price": 8, "desc": "Maple syrup ice cream with chunks of molerat-shaped maple candy."},
+      {"name": "Swamp Plant Sorbet", "price": 8, "desc": "Refreshing sorbet made with swamp plant leaves, wild tarberry, and a splash of wasteland citrus."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Radstag Tracks", "price": 8, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."},
+      {"name": "Molerat Maple Mash", "price": 8, "desc": "Maple syrup ice cream with chunks of molerat-shaped maple candy."},
+      {"name": "Swamp Plant Sorbet", "price": 8, "desc": "Refreshing sorbet made with swamp plant leaves, wild tarberry, and a splash of wasteland citrus."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Radstag Tracks", "price": 8, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."},
+      {"name": "Molerat Maple Mash", "price": 8, "desc": "Maple syrup ice cream with chunks of molerat-shaped maple candy."},
+      {"name": "Swamp Plant Sorbet", "price": 8, "desc": "Refreshing sorbet made with swamp plant leaves, wild tarberry, and a splash of wasteland citrus."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."},
+      {"name": "Radstag Tracks", "price": 8, "desc": "Chocolate ice cream with caramel-filled radstag hoof prints and a fudge swirl."},
+      {"name": "Molerat Maple Mash", "price": 8, "desc": "Maple syrup ice cream with chunks of molerat-shaped maple candy."},
+      {"name": "Swamp Plant Sorbet", "price": 8, "desc": "Refreshing sorbet made with swamp plant leaves, wild tarberry, and a splash of wasteland citrus."},
+      {"name": "Quantum Quake", "price": 8, "desc": "Blue raspberry ice cream with pieces of Quantum raspberry and chocolate-covered pretzel chunks."},
+      {"name": "Brahmin Brownie Bliss", "price": 8, "desc": "Brownie batter ice cream with chunks of caramel-filled brahmin milk chocolate brownies."},
+      {"name": "Mirelurk Madness", "price": 8, "desc": "Mint chocolate chip ice cream with mint ganache and mirelurk shell-shaped chocolate pieces."},
+      {"name": "Nukalurk Nutty Crunch", "price": 8, "desc": "Peanut butter ice cream with salted caramel swirls and candied Nukalurk peanuts."},
+      {"name": "Glowing Gourd Delight", "price": 8, "desc": "Pistachio ice cream infused with glowing gourd essence, studded with candied glowing gourd pieces."}
+    ]
   }
 }
